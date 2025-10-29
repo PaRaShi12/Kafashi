@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "PaRaShi12/Kafashi",
+    "data-repo": "PaRaShi12/PaRaShi12.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
